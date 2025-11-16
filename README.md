@@ -4,9 +4,9 @@ A full-stack MERN (MongoDB, Express, React, Node.js) real-time chat application 
 
 ## 📱 Live Application
 
-- **Frontend URL**: [Add your Vercel URL here]
-- **Backend URL**: [Add your Render URL here]
-- **Health Check**: [Add your backend URL]/health
+- **Frontend URL**: https://client-eoybrofsf-annes-projects-191d800f.vercel.app
+- **Backend URL**: https://chat-app-backend-jnw3.onrender.com
+- **Health Check**: https://chat-app-backend-jnw3.onrender.com/health
 
 ## ✨ Features
 
